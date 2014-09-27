@@ -1,0 +1,97 @@
+SET UTF-8
+TRY ־אבגדהווזחטיכלמםנןסעפףצץקרשתײ׳״
+
+REP 18
+REP װ וו
+REP ױ וי
+REP ײ יי
+REP ײַ יי
+REP ' ׳
+REP '' ״
+REP " ״
+REP א אַ
+REP א אָ
+REP בּ ב
+REP בֿ ב
+REP וּ ו
+REP יִ י
+REP כּ כ
+REP פ פּ
+REP פֿ פ
+REP שׂ ש
+REP תּ ת
+REP אי יי
+REP אַ אָ
+REP אָ אַ
+
+
+PFX 1 Y 1
+PFX 1 0 אָנ .
+
+PFX 2 Y 1
+PFX 2 0 אויס .
+
+PFX 3 Y 1
+PFX 3 0 איינ .
+
+PFX 4 Y 1
+PFX 4 0 אַרויס .
+
+PFX 5 Y 1
+PFX 5 0 אַריבער .
+
+PFX 6 Y 1
+PFX 6 0 אַרויפ .
+
+PFX 7 Y 1
+PFX 7 0 איבער .
+
+PFX 8 Y 1
+PFX 8 0 פאָר .
+
+PFX 9 Y 1
+PFX 9 0 אַראָפּ .
+
+PFX A Y 1
+PFX A 0 אַריינ .
+
+PFX B Y 1
+PFX B 0 באַ .
+
+PFX D Y 1
+PFX D 0 דורכ .
+
+PFX O Y 1
+PFX O 0 אָפּ .
+
+PFX F Y 1
+PFX F 0 פאַר .
+
+PFX U Y 1
+PFX U 0 אויפ .
+
+PFX V Y 1
+PFX V 0 אַדורכ .
+
+PFX W Y 1
+PFX W 0 אַוועק .
+
+
+SFX S Y 3
+SFX S 0 ס ע
+SFX S 0 עס ק
+SFX S ה ות ה
+
+SFX N Y 1
+SFX N 0 ן .
+
+SFX R Y 1
+SFX R 0 ער .
+
+SFX E Y 1
+SFX E 0 ע .
+
+SFX C Y 2
+SFX C 0 ך לע
+SFX C 0 עך ל
+
