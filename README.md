@@ -7,7 +7,7 @@ This is a Yiddish dictionary for [Hunspell](http://hunspell.sourceforge.net/).
 
 * Clone the repository (or download the files as zip):
 
-        git clone https://github.com/evoeco/radtools.git
+        git clone https://github.com/har-wradim/hunspell-yi.git
 
 * Copy the yi.dic and yi.aff files to a place accessible by hunspell. Under Linux the following paths should work out of the box:
 
