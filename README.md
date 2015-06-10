@@ -3,7 +3,8 @@ Hunspell Yiddish dictionary
 
 This is a Yiddish dictionary for [Hunspell](http://hunspell.sourceforge.net/).
 
-**Installation**
+Installation
+------------
 
 * Clone the repository (or download the files as [zip](https://github.com/har-wradim/hunspell-yi/archive/master.zip)):
 
@@ -15,10 +16,12 @@ This is a Yiddish dictionary for [Hunspell](http://hunspell.sourceforge.net/).
         sudo ln -sf /usr/share/hunspell/yi.dic /usr/share/myspell/dicts/yi.dic
         sudo ln -sf /usr/share/hunspell/yi.aff /usr/share/myspell/dicts/yi.aff
 
-**Credits**
+Credits
+-------
 
-The dictionary is based on the corpuses collected by [Raphael A. Finkel](http://www.cs.uky.edu/~raphael/yiddish.html), [Simche Taub](http://jidysz.net/) and [Andrey Rozenberg](https://github.com/har-wradim). The spelling is unified in line with the rules codified in [כלל־תקנות פון יידישן אויסלייג](https://yi.wikisource.org/wiki/כלל־תקנות_פון_יידישן_אויסלייג)
+The dictionary is based on the corpuses collected by [Raphael A. Finkel](http://www.cs.uky.edu/~raphael/yiddish.html), [Simche Taub](http://jidysz.net/) and [Andrey Rozenberg](https://github.com/har-wradim). The spelling is unified in line with the rules codified in [כלל־תקנות פון יידישן אויסלייג](http://dovidkatz.net/dovid/PDFStylistics/1992.pdf)
 
-**License**
+License
+-------
 
 Inherits the GPL v.3 License.
